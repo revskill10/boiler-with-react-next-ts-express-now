@@ -3,7 +3,7 @@ import Layout from '../src/Layout';
 
 const Home = props => (
   <Layout>
-    <div>Home page</div>
+    <div>Home page staging test</div>
   </Layout>
 );
 
