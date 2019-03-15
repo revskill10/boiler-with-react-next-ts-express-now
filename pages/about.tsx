@@ -1,10 +1,10 @@
 import React from 'react';
 import Layout from '../src/Layout';
 
-const Home = props => (
+const About = props => (
   <Layout>
-    <div>Home page</div>
+    <div>About page</div>
   </Layout>
 );
 
-export default Home;
+export default About;
