@@ -1,3 +1,7 @@
+# Packages need to run boiler plate.
+
+to use this boiler plate you need to have `brew, npm or yarn` once you have `brew` and one of the `npm` or `yarn` then we need to install `$ npm i -g now` or
+
 # boiler-with-react-next-ts-express-now
 
 its boiler plate template with basic setting of react, nextjs, typescript, express server. it can be deployed to now.sh. you can add custom domain as well.
