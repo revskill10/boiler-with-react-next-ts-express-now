@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "boiler-plate",
+  "alias": ["boiler-plate"],
+  "builds": [{"src": "package.json", "use": "@now/next"}],
+  "routes": [{"src": "/post/(.*)", "dest": "/post?id=$1"}]
+}
